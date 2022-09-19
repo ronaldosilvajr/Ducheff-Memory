@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 body{
+    padding: auto;
     display: flex;
     align-items: center;
     flex-direction: column;
